@@ -4,8 +4,7 @@
 
  </div>
 <div align="center" dir="auto">
-
- <img src="https://i.ibb.co/0hXwZx6/20221016-172057.jpg" width="300px" style="max-width: 200%;">
+<a href="https://github.com/OminduAnjane/OminduAnjane"><img src="https://i.ibb.co/kgTXg0F/IMG-20221021-WA0002.jpg" alt="IMG-20221021-WA0002" border="0"></a>
  </div>
 
 
