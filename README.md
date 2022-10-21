@@ -4,7 +4,7 @@
 
  </div>
 <div align="center" dir="auto">
-<a href="https://github.com/OminduAnjane/OminduAnjane"><img src="https://i.ibb.co/kgTXg0F/IMG-20221021-WA0002.jpg" alt="IMG-20221021-WA0002" border="0"></a>
+<a href="https://github.com/OminduAnjane/OminduAnjane"><img src="https://i.ibb.co/kgTXg0F/IMG-20221021-WA0002.jpg" alt="omindu anjana github dp" border="0"></a>
  </div>
 
 
